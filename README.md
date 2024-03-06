@@ -1,2 +1,2 @@
-# Equipo2-Sensores
+# Equipo 2. Sensores
 En este repositorio se encontrarán los códigos de python de los sensores
